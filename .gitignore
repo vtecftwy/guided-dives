@@ -23,10 +23,8 @@ env/
 *.swp
 
 # Data and Saved Models
-dl/data/
-dl/data/*
-dl/models/
-dl/models/*
+**/data/
+**/models/
 
 # WIP documents
 */wip_*
