@@ -25,6 +25,13 @@ env/
 # Data and Saved Models
 **/data/
 **/models/
+**/imgs/*
+**/db/
+!imgs/sh-lujiazui-1997.jpg
 
 # WIP documents
 */wip_*
+
+# Specifics
+01_dl/imgs/ft-fp.jpg
+01_dl/imgs/uAI-team.jpg
